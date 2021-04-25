@@ -4,9 +4,9 @@
 <br>
 [gotohhh](https://github.com/gtwilson8921/gtwilsona/blob/main/hhh.md)
 <br>
-![目录图片](https://github.com/gtwilson8921/gtwilsona/blob/main/ass.jpg)
+![目录图片](https://github.com/pll000/hello-world/blob/main/ccc.jpg)
 <br>
-![插画](https://www.sanguosha.com/static/pc/dist/img/general3.png)
+![插画](https://github.com/pll000/hello-world/blob/main/ccc.jpg)
 <br>
 `print "示例代码" ` 
 >这是一行引用
