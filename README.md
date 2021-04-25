@@ -2,7 +2,7 @@
 #### Markdown
 [baidu](https://www.baidu.com)
 <br>
-[gotohhh](https://github.com/gtwilson8921/gtwilsona/blob/main/hhh.md)
+[gotohhh](https://github.com/pll000/hello-world/edit/main/README.md)
 <br>
 ![目录图片](https://github.com/pll000/hello-world/blob/main/ccc.jpg)
 <br>
